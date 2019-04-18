@@ -23,17 +23,17 @@ Because the Pi will be running headless we need to tell it to assume an HDMI mon
 
 Next we need to install PyUserInput from the terminal:
 
-pip3 install PyUserInput
+*pip3 install PyUserInput*
 
 ...and download the PiNG.py script to the Pi, I just popped it in the main Pi folder. 
 
 To save having to start the script after each reboot it's worth setting it to autostart once the desktop has loaded, by editing the global autostart file:
 
-sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
+*sudo nano /etc/xdg/lxsession/LXDE-pi/autostart*
 
 ...adding in the following line at the bottom to point at the script location:
 
-@python3 /home/pi/PiNG.py
+*@python3 /home/pi/PiNG.py*
 
 After a reboot the script should run automatically. 
 
