@@ -1,13 +1,15 @@
 # pingdoorbell
 Basic code for the Raspberry Pi Video Doorbell project.
 
-Project Writeups & Full Build Details:
+Project Writeups & Full Build Details at the links below:
 
 Instructables:
 
 Hackster:
 
-Youtube:
+Youtube: https://youtu.be/Bn1qj2Uvl0w
+
+Website: http://bit.ly/OldTechNewSpec
 
 # Raspberry Pi "PiNG" Video Doorbell
 
