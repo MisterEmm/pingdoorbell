@@ -7,7 +7,9 @@ Instructables:
 
 Hackster:
 
-Youtube: https://youtu.be/Bn1qj2Uvl0w
+Full Youtube Video: https://youtu.be/Bn1qj2Uvl0w
+
+Software Setup section of Video: https://youtu.be/Bn1qj2Uvl0w?t=1029
 
 Website: http://bit.ly/OldTechNewSpec
 
