@@ -3,9 +3,9 @@ Basic code for the Raspberry Pi Video Doorbell project.
 
 Project Writeups & Full Build Details at the links below:
 
-Instructables:
+Instructables: https://www.instructables.com/id/1986-Raspberry-Pi-Video-Doorbell
 
-Hackster:
+Hackster: https://www.hackster.io/martin-mander/1986-ping-video-doorbell-30b666
 
 Full Youtube Video: https://youtu.be/Bn1qj2Uvl0w
 
