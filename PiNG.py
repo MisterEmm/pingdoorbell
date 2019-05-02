@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# Full setup instructions at bit.ly/pingdoorbell
 # Ensure PyUserInput is installed
 # Ensure Duo is running full screen and audio sources are set
 
